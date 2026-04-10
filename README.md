@@ -1,4 +1,4 @@
-# 🏥 ASSDACO - Triagem Hospitalar
+# 🏥 ASSDACO - Triagem Hospitalar (Ello's Brand)
 
 **Micro SaaS para sistema de triagem hospitalar**  
 Sistema completo de triagem desenvolvido como produto SaaS, com suporte nativo a **SQLite** (desenvolvimento local) e **PostgreSQL** (produção).  
