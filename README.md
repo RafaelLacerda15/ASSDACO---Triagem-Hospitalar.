@@ -13,7 +13,7 @@ Projeto que demonstra habilidades avançadas em backend Python: dual database st
 - 🔄 Migração automática de dados do SQLite para PostgreSQL na primeira inicialização
 - 🚀 Deploy pronto na Render com `render.yaml`
 - 🛠️ Configuração production-grade com Gunicorn + variáveis de ambiente
-- 🔐 Sistema de login administrativo seguro (MASTER_USERNAME + MASTER_PASSWORD)
+- 🔐 Sistema de login administrativo seguro.
 - 📊 Banco de dados de usuários e triagem totalmente separado e persistente
 
 ---
