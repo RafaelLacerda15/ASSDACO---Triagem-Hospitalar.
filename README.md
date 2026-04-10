@@ -1,0 +1,1 @@
+# ASSDACO---Triagem-Hospitalar.
