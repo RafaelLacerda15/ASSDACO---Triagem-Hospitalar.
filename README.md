@@ -28,24 +28,3 @@ Projeto que demonstra habilidades avançadas em backend Python: dual database st
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
-
-### 🚀 Quick Start
-
-#### Ambiente Local (SQLite)
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/RafaelLacerda15/assdaco-triagem.git
-cd assdaco-triagem
-
-# 2. Crie o arquivo de ambiente
-cp .env.example .env
-
-# 3. (Opcional) Deixe DATABASE_URL vazio para usar SQLite
-# USERS_DATABASE_FILE=users.db
-# TRIAGEM_DATABASE_FILE=triagem.db
-# DATABASE_URL=
-
-# 4. Instale as dependências e rode
-pip install -r requirements.txt
-python main.py
